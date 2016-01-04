@@ -1,0 +1,4 @@
+notify:
+  webhooks:
+    # A list of hook hashes, containing the url field
+    - url: https://jianliao.com/v2/services/webhook/c24dd59fc91b7957094a5396859969bab73a7187
